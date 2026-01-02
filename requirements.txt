@@ -6,6 +6,10 @@ seaborn
 jupyter
 xgboost
 random-forest
-
-flask
 streamlit
+lr
+svr
+dtr
+rfr
+abr
+etr
