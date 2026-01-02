@@ -12,4 +12,3 @@ svr
 dtr
 rfr
 abr
-etr
