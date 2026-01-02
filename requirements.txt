@@ -5,10 +5,10 @@ matplotlib
 seaborn
 jupyter
 xgboost
-random-forest
 streamlit
 lr
 svr
 dtr
 rfr
 abr
+
