@@ -1,5 +1,6 @@
 # Car Price Prediction App
 ### Run the application from this link 
+https://carpricepredictionmlmodel-gqpfs42t2efevhkspnavfu.streamlit.app/
 
 This repository hosts a Streamlit application designed for predicting used car selling prices based on various vehicle attributes. The core of this application is a machine learning model trained on a comprehensive dataset of used cars.
 🚀 Project Overview
